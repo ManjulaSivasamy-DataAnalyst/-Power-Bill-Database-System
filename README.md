@@ -65,7 +65,7 @@ The dataset includes fields such as:
 - Automate data refresh with Power BI Service
 
  📬 Contact
- MANJULA sIVASAMY
+ MANJULA SIVASAMY
 📧 manjulasivasamy02@gmail.com  
 💼 LinkedIn Profile:(www.linkedin.com/in/manjula-sivasamy-dataanalyst)  
 🌐 GitHub:(https://github.com/ManjulaSivasamy-DataAnalyst)
