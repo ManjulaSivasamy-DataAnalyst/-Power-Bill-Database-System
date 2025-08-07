@@ -15,12 +15,13 @@ To analyze electricity billing records and provide interactive, visual insights 
 - Consumption vs billing relationship graph
 - City-wise geographical billing activity
 - Meter-wise table of paid and unpaid amounts
+-Used SQL queries to solve business problems
 
 🛠 Tools Used
 
 - Power BI – for building interactive visual dashboards  
 - Excel/CSV – as the primary dataset format  
-
+- SQL – for writing queries to analyze revenue, payment status, and usage
 
  📂 Dataset Summary
 
